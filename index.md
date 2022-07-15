@@ -1,7 +1,6 @@
 ---
 layout: home
 ---
-# SRP Additive Manufacturing Prediction Challenge
 
 Welcome to the 2022 SRP Additive Manufacturing Prediction Challenge!
 The purpose of this exercise is two-fold:
